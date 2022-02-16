@@ -41,8 +41,8 @@ Colab анализ QC прочтений:
 ![epiblast](https://user-images.githubusercontent.com/93256219/154366257-2c3b13ad-dc01-4d01-b1e2-9f4b660d7a61.png)
 ![icm](https://user-images.githubusercontent.com/93256219/154366258-88d1bc73-abe4-4f09-8e3f-a42803a126bd.png)
 
-## Код
-
+### Код
+```
 import pandas as pd
 from matplotlib import pyplot as plt
 path = 'SRR5836473_1_bismark_bt2_pe.deduplicated.bedGraph'
@@ -53,3 +53,4 @@ plt.hist(graph[3], bins=100, density=True)
 plt.xlabel('Процент метилированных цитозинов')
 plt.ylabel('Частота')
 plt.show()
+```
