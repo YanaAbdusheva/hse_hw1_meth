@@ -2,7 +2,7 @@
 Ссылка на Colab: https://colab.research.google.com/drive/1uqVNKH4LDPMrtg8a999OFBKnwbYrgONO?usp=sharing
 Colab анализ QC прочтений: 
 # Анализ QC прочтений
-Образец SRR3824222_1 (Epiblast)
+Образец SRR5836473_2 (8 cell)
 
 ### a) Число ридов
 
@@ -12,7 +12,7 @@ Colab анализ QC прочтений:
 ```
 !ls *pe.bam | xargs -P 4 -tI{} deduplicate_bismark  --bam  --paired  -o s_{} {}
 ```
-# Процент дуплицированных прочтений
+### Процент дуплицированных прочтений
 
 ![table2](https://user-images.githubusercontent.com/93256219/154360977-34268c6a-1dff-48cd-b1be-bcc5e8f316fb.png)
 
@@ -35,6 +35,7 @@ Colab анализ QC прочтений:
 ![6](https://user-images.githubusercontent.com/93256219/154364652-17a27a28-2db3-41d4-b63f-c6abac5340b6.png)
 
 ### e) Гистограмма распределения метилирования цитозинов по хромосоме
+Делаю выводы
 
 ![8cell](https://user-images.githubusercontent.com/93256219/154366250-b2c36b0f-a3f6-421a-9dee-9deab3ad2016.png)
 ![epiblast](https://user-images.githubusercontent.com/93256219/154366257-2c3b13ad-dc01-4d01-b1e2-9f4b660d7a61.png)
