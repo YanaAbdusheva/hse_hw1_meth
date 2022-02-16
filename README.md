@@ -17,7 +17,7 @@ Colab анализ QC прочтений:
 ![table2](https://user-images.githubusercontent.com/93256219/154360977-34268c6a-1dff-48cd-b1be-bcc5e8f316fb.png)
 
 ### d) M-Bias Plot
-Мы видим график смещения метилирования, который показывает пропорцию метилирования для каждой возможной позиции в прочтении. На графиках также показано абсолютное значение  метиловых calls (и метилированных, и не метилированных). В нашем случае, мы имеем дело с paired-end записью, поэтому у нас два разных графика M-bias. На данных графиках мы можем выявить смещение 3'-end-repair начальных значений в двух прочтениях paired-end reads. 
+Описание
 
 ## SRR5836473
 
@@ -34,4 +34,9 @@ Colab анализ QC прочтений:
 ![5](https://user-images.githubusercontent.com/93256219/154364651-2e8e2ce4-744d-47d6-bd9d-17b49a584141.png)
 ![6](https://user-images.githubusercontent.com/93256219/154364652-17a27a28-2db3-41d4-b63f-c6abac5340b6.png)
 
+### e) Гистограмма распределения метилирования цитозинов по хромосоме
+
+![8cell](https://user-images.githubusercontent.com/93256219/154366250-b2c36b0f-a3f6-421a-9dee-9deab3ad2016.png)
+![epiblast](https://user-images.githubusercontent.com/93256219/154366257-2c3b13ad-dc01-4d01-b1e2-9f4b660d7a61.png)
+![icm](https://user-images.githubusercontent.com/93256219/154366258-88d1bc73-abe4-4f09-8e3f-a42803a126bd.png)
 
