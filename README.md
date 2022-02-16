@@ -12,7 +12,7 @@ Colab анализ QC прочтений: https://colab.research.google.com/driv
 epiblast | 2328 | 1062 
 ICM | 1456 | 630 
 
-### b) BASH-скрипт
+### b) Bash-скрипт
 ```
 !ls *pe.bam | xargs -P 4 -tI{} deduplicate_bismark  --bam  --paired  -o s_{} {}
 ```
