@@ -23,3 +23,15 @@ Colab анализ QC прочтений:
 
 ![1](https://user-images.githubusercontent.com/93256219/154363988-1d2d27d7-db83-4901-a23e-c1063c0a47aa.png)
 ![2](https://user-images.githubusercontent.com/93256219/154363993-1d5b9a04-a447-475f-8afc-9766fdd82ece.png)
+
+## SRR3824222
+
+![3](https://user-images.githubusercontent.com/93256219/154364530-78b71064-c315-403f-979e-fe2febd50c7a.png)
+![4](https://user-images.githubusercontent.com/93256219/154364534-0ea3f28c-7479-44f3-b659-3075522b1c36.png)
+
+## SRR5836475
+
+![5](https://user-images.githubusercontent.com/93256219/154364651-2e8e2ce4-744d-47d6-bd9d-17b49a584141.png)
+![6](https://user-images.githubusercontent.com/93256219/154364652-17a27a28-2db3-41d4-b63f-c6abac5340b6.png)
+
+
