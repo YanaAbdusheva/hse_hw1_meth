@@ -12,15 +12,16 @@ Colab анализ QC прочтений:
 epiblast | 2328 | 1062 
 ICM | 1456 | 630 
 
-![table](https://user-images.githubusercontent.com/93256219/154359013-16e86292-9f7e-466f-94f3-6beb5f2a71ff.png)
-
 ### b) BASH-скрипт
 ```
 !ls *pe.bam | xargs -P 4 -tI{} deduplicate_bismark  --bam  --paired  -o s_{} {}
 ```
 ### Процент дуплицированных прочтений
-
-![table2](https://user-images.githubusercontent.com/93256219/154360977-34268c6a-1dff-48cd-b1be-bcc5e8f316fb.png)
+Образцы | Процент
+--- | --- 
+8cell | 81.69
+epiblast | 97.08
+ICM | 90.92 
 
 ### d) M-Bias Plot
 Описание
