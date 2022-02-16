@@ -54,3 +54,12 @@ plt.xlabel('Процент метилированных цитозинов')
 plt.ylabel('Частота')
 plt.show()
 ```
+### f) pyGenomeTracks
+Уровень метилирования:
+
+![image_methyl](https://user-images.githubusercontent.com/93256219/154367500-1ebee4f9-c432-4c7f-b582-7659ef59cf80.png)
+
+Уровень покрытия:
+
+![image_cov](https://user-images.githubusercontent.com/93256219/154367526-70f7bb5c-47cc-4547-a322-158d58efe531.png)
+
