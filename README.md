@@ -51,7 +51,6 @@ ICM | 90.92
 ![6](https://user-images.githubusercontent.com/93256219/154364652-17a27a28-2db3-41d4-b63f-c6abac5340b6.png)
 
 ### e) Гистограмма распределения метилирования цитозинов по хромосоме
-Делаю выводы
 
 ![8cell](https://user-images.githubusercontent.com/93256219/154366250-b2c36b0f-a3f6-421a-9dee-9deab3ad2016.png)
 ![epiblast](https://user-images.githubusercontent.com/93256219/154366257-2c3b13ad-dc01-4d01-b1e2-9f4b660d7a61.png)
