@@ -52,6 +52,8 @@ ICM | 90.92
 
 ### e) Гистограмма распределения метилирования цитозинов по хромосоме
 
+Можно увидеть, что для стадии Epiblast большинство цитозинов являются метилированными (самая высокая частота для 100% метилированных цитозинов , что логично, т.к. это последняя стадия). 
+
 ![8cell](https://user-images.githubusercontent.com/93256219/154366250-b2c36b0f-a3f6-421a-9dee-9deab3ad2016.png)
 ![epiblast](https://user-images.githubusercontent.com/93256219/154366257-2c3b13ad-dc01-4d01-b1e2-9f4b660d7a61.png)
 ![icm](https://user-images.githubusercontent.com/93256219/154366258-88d1bc73-abe4-4f09-8e3f-a42803a126bd.png)
